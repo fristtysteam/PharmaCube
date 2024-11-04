@@ -1,0 +1,5 @@
+Reference for set-up of the load cell
+Indrek. (2020). HX711 with a Four Wire Load Cell and Arduino | Step by Step Guide. [video online]. Available from: https://www.youtube.com/watch?v=sxzoAGf1kOo&t=199s [accessed 11 October 2024].
+
+Reference for code working with the load cell's amplifier
+pypi.org. (2018). hx711 · PyPI [online]. Available from: https://pypi.org/project/hx711/#history [accessed 11 October 2024]. 
